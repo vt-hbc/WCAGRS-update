@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "board": "wcagrs-esp32-s3",
+  "version": "0.1.1",
+  "url": "https://vt-hbc.github.io/wcagrs-updates/firmware-0.1.1.bin",
+  "size": 1180096,
+  "sha256": "185ba4d2ec99af2ac4cd5012744dc8498a0443552f1f3881589e8eb0e608220b"
+}
